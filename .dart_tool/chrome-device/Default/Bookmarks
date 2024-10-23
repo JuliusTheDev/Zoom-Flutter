@@ -1,0 +1,369 @@
+{
+   "checksum": "1e47362cbb29806b4a9b03f6f2385328",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13199423050383920",
+               "date_last_used": "0",
+               "guid": "28404f8f-e4ff-41a6-bc99-43925ecc55ee",
+               "id": "13",
+               "name": "Poupança - Como Investir | ANBIMA",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://comoinvestir.anbima.com.br/entenda/item/poupanca/",
+               "visit_count": 0
+            }, {
+               "date_added": "13199423066512588",
+               "date_last_used": "0",
+               "guid": "6290c253-6dd6-444e-825b-cd091bdbb777",
+               "id": "14",
+               "name": "Títulos públicos - Como Investir | ANBIMA",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://comoinvestir.anbima.com.br/entenda/item/titulos-publicos/",
+               "visit_count": 0
+            }, {
+               "date_added": "13199423087365169",
+               "date_last_used": "0",
+               "guid": "a257d9db-90a3-4204-ad15-562f5c202522",
+               "id": "15",
+               "name": "Debêntures - Como Investir | ANBIMA",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://comoinvestir.anbima.com.br/entenda/item/debentures/",
+               "visit_count": 0
+            }, {
+               "date_added": "13199423106577410",
+               "date_last_used": "0",
+               "guid": "5e778930-7364-41ad-b3ec-1badab696f02",
+               "id": "16",
+               "name": "LCI e LCA - Como Investir | ANBIMA",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://comoinvestir.anbima.com.br/entenda/item/lci-e-lca/",
+               "visit_count": 0
+            }, {
+               "date_added": "13199423119043272",
+               "date_last_used": "0",
+               "guid": "fa509b4e-6bda-442b-bbfc-af000192ea5d",
+               "id": "17",
+               "name": "CDB - Como Investir | ANBIMA",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://comoinvestir.anbima.com.br/entenda/item/cdb/",
+               "visit_count": 0
+            }, {
+               "date_added": "13199423130000229",
+               "date_last_used": "0",
+               "guid": "c936e1ff-aae4-4632-a032-88f18b2e9e3e",
+               "id": "18",
+               "name": "COE - Como Investir | ANBIMA",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://comoinvestir.anbima.com.br/entenda/item/coe/",
+               "visit_count": 0
+            }, {
+               "date_added": "13199423146881215",
+               "date_last_used": "0",
+               "guid": "379b2510-4979-41d9-969c-64fcd49417e1",
+               "id": "19",
+               "name": "Ações - Como Investir | ANBIMA",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://comoinvestir.anbima.com.br/entenda/item/acoes/",
+               "visit_count": 0
+            }, {
+               "date_added": "13199423172586912",
+               "date_last_used": "0",
+               "guid": "d12363d5-b60e-4170-bc6a-9e994052974b",
+               "id": "20",
+               "name": "Fundos de investimento - Como Investir | ANBIMA",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://comoinvestir.anbima.com.br/entenda/item/fundos-de-investimento/",
+               "visit_count": 0
+            }, {
+               "date_added": "13199423208219583",
+               "date_last_used": "0",
+               "guid": "66e889de-84f4-4f4b-ba74-92af94449b50",
+               "id": "21",
+               "name": "Previdência privada - Como Investir | ANBIMA",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://comoinvestir.anbima.com.br/entenda/item/previdencia-privada/",
+               "visit_count": 0
+            }, {
+               "date_added": "13199423595592167",
+               "date_last_used": "0",
+               "guid": "2c874dcb-d63f-49db-aae3-d336b1571892",
+               "id": "22",
+               "name": "Sistemas CVM",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://sistemas.cvm.gov.br/?cadcias",
+               "visit_count": 0
+            }, {
+               "date_added": "13199424835895337",
+               "date_last_used": "0",
+               "guid": "91521221-5c74-4807-a906-9eba48e4f1b4",
+               "id": "23",
+               "name": "CVM",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.cvm.gov.br/",
+               "visit_count": 0
+            } ],
+            "date_added": "13238166759953176",
+            "date_last_used": "0",
+            "date_modified": "13238166759953176",
+            "guid": "f3441705-1343-4163-827f-62d4db97b0e8",
+            "id": "12",
+            "name": "Financeiro",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13339559173489783",
+               "date_last_used": "13339642668897711",
+               "guid": "07dd55ea-5700-43da-b8c2-267f3840db92",
+               "id": "25",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Estou aprendendo | Networking Academy",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.netacad.com/portal/learning",
+               "visit_count": 0
+            }, {
+               "date_added": "13339211476251691",
+               "date_last_used": "0",
+               "guid": "8adaa856-239b-435f-91c9-ba306e1d5864",
+               "id": "26",
+               "name": "ADA Cursos Digitais | Comunidade Ada",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://comunidade.ada.tech/cursos/explorar",
+               "visit_count": 0
+            }, {
+               "date_added": "13331075939701328",
+               "date_last_used": "0",
+               "guid": "6794a9c6-b239-4496-a198-c92d4f490a53",
+               "id": "27",
+               "name": "EAD IFMS",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://ead.ifms.edu.br/",
+               "visit_count": 0
+            }, {
+               "date_added": "13370482130694776",
+               "date_last_used": "0",
+               "guid": "2fe8d059-6d03-4888-a1c1-24952cc7afa8",
+               "id": "28",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Nova guia",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "edge://newtab/",
+               "visit_count": 1
+            }, {
+               "date_added": "13373087625264820",
+               "date_last_used": "0",
+               "guid": "bd7a40c3-9399-49a7-9c06-8f96b3efa4ef",
+               "id": "29",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Página inicial - Microsoft Azure",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://portal.azure.com/#home",
+               "visit_count": 1
+            }, {
+               "date_added": "13373697065014373",
+               "date_last_used": "0",
+               "guid": "3e341b0b-120d-4b20-b459-6153303c9ad8",
+               "id": "30",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Notion Desktop App for Mac & Windows | Notion",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.notion.so/download",
+               "visit_count": 1
+            } ],
+            "date_added": "13238166759954279",
+            "date_last_used": "0",
+            "date_modified": "13373697065014373",
+            "guid": "1c131710-c5cc-495a-96cd-a0253800dc57",
+            "id": "24",
+            "name": "Faculdade e Cursos",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13238126194543164",
+               "date_last_used": "0",
+               "guid": "84efcd29-36f7-4384-b160-934fb9726a0c",
+               "id": "32",
+               "name": "Netflix",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.netflix.com/watch/80171742?trackId=13752289&tctx=2%2C1%2C7899e8a7032f12dea36d61fcb391001b08fd966c%3Ab132d2ede5eab07a46421f91d359729b894cc84b%2C%2C",
+               "visit_count": 0
+            }, {
+               "date_added": "13238126194544746",
+               "date_last_used": "0",
+               "guid": "f86db1ef-0152-48e8-8c7f-423a01fffab8",
+               "id": "33",
+               "name": "Prime Video",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.primevideo.com/storefront/ref=av_auth_return_redir",
+               "visit_count": 0
+            } ],
+            "date_added": "13238166759918246",
+            "date_last_used": "0",
+            "date_modified": "13238166759918246",
+            "guid": "09598530-4b45-400c-a404-375b241a83a8",
+            "id": "31",
+            "name": "Filmes",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13344101161036390",
+            "date_last_used": "13366254444344663",
+            "guid": "aa0d2c01-61ba-4bb5-bbf0-23ddd4579cac",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Home - Guia de TI",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://guiadeti.com.br/",
+            "visit_count": 0
+         } ],
+         "date_added": "13374042504444355",
+         "date_last_used": "0",
+         "date_modified": "13344101161036390",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13198859546514271",
+               "date_last_used": "0",
+               "guid": "9de919eb-a7e5-4ada-ae6b-6bffbbfd73db",
+               "id": "7",
+               "name": "Lenovo Support",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://support.lenovo.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13198859546514271",
+               "date_last_used": "0",
+               "guid": "81d0ee1b-b0a3-45ec-9228-b37efaa611e3",
+               "id": "8",
+               "name": "Lenovo",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.lenovo.com/",
+               "visit_count": 0
+            } ],
+            "date_added": "13238166759952992",
+            "date_last_used": "0",
+            "date_modified": "13238166759952992",
+            "guid": "dfe20b68-582d-43d2-b418-f34b71de9bd1",
+            "id": "6",
+            "name": "Lenovo",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13238126194603418",
+               "date_last_used": "0",
+               "guid": "5807e9bb-0502-4692-9aaf-deae06e6add5",
+               "id": "10",
+               "name": "Artigo 5º da Constituição Federal em mapas mentais - Meu Mapa Mental",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.meumapamental.com.br/artigo-5o/",
+               "visit_count": 0
+            } ],
+            "date_added": "13238166759953881",
+            "date_last_used": "0",
+            "date_modified": "13238166759953881",
+            "guid": "33d5856d-a3c0-42d9-ad43-f0c9c0d575cd",
+            "id": "9",
+            "name": "Legislação",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13213673816789423",
+            "date_last_used": "0",
+            "guid": "3ee9e587-5d06-4bcf-86df-ea8f19f21b15",
+            "id": "11",
+            "name": "Livrarias Curitiba",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.livrariascuritiba.com.br/login?ReturnUrl=%2f_secure%2faccount",
+            "visit_count": 0
+         } ],
+         "date_added": "13374042504444357",
+         "date_last_used": "0",
+         "date_modified": "13213673816789423",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13374042504444359",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCDoiwJ2SAQAAEgAqGExhNk9oWHJnWFNJNnlJYXBVQmUvM0E9PUgDoAYHEq0BCCISqAEKHE5kbW9PVzJ6VWRTT01aNlFpVEJIOVNvSkYvRT0SJGFhMGQyYzAxLTYxYmEtNGJiNS1iYmYwLTIzZGRkNDU3OWNhYxgAIAAoADDArIuRjjI4ufvJzbsxQLn7yc27MUocejNKcnkvTlNhUjlsSGR1V1ZQU3dGQXdjOENZPVofIh33d0ZXZFYzSkg2Z0wrTDZPUEY0SUxoZUlRcFgwPWWsljefwj4CYAUSrAEIIBKnAQocQnRvR2NHQnFPYUdCQ2RKSXNlempRVHNBSUNvPRIkMzE4ZTRhMTUtY2E2Ny00YmJjLTk1OTMtYzdlNWJjODQyZWMzGAAgACgAMLOuoPywLjjg76Dv8y9A4O+g7/MvShxjUWVkYW5mbnpzTS94bWU3Yi9CUktJQVpmYms9Wh4iHHkzbkJVYm1WSTRZTFJHMFJ4dUZJVmIwN1RhWT1lRoFucsI+AmAFEq0BCB4SqAEKHG8zaDloS24xeXZOV3FRTGgzRWNqbFpwVFI5Yz0SJDNlMzQxYjBiLTEyMGQtNGIyMC1iNDU5LTYxNTMzMDNjOWFkOBgAIAAoADC5xIDuqTI4iMeA7qkyQIjHgO6pMkocNEpKcVFYWHBxWW9uNml5Q0YvcU44UnMxU05FPVofIh33WUtleEhzQVNGNGZ5RllNajVqRXhMT2JFL2xjPWXM8kkewj4CYAUSrQEIHRKoAQocK2I3MGFrUlhIb1ZFVGxDR0lDa3JtOWJRL1NNPRIkYmQ3YTQwYzMtOTM5OS00OWE3LTljMDYtOGY5NmIzZWZhNGVmGAAgACgAMLm3s8unMjiJurPLpzJAibqzy6cyShxzUXM0S1NWdjRvU0ljSGsvYXdadExTTjBLK2M9Wh8iHe9rRis0Y2pkc1NaZEJCV25tSExQdHI0clUwc0U9ZdKhbF7CPgJgBRKtAQgcEqgBChwzY2xMRDRoWDVvSXZydzYzTnJkM3ZIODJ6T2c9EiQyZmU4ZDA1OS02ZDAzLTQ4ODgtYTFjMS0yNDk1MmNjN2FmYTgYACAAKAAwyseA8Z0yOK3JgPGdMkCtyYDxnTJKHC8reG9Gd09MbE1ib1IwRlA4c3dkQUV2Q2ZsTT1aHyId3m1LZGZGVWRadllFalN3ODNXcnJzN3laSzBFQT1l2K+wAsI+AmAFEqwBCBoSpwEKHGlMMjRLZ3FrcWRONDhkbXM3d1FUL3FlNmhzdz0SJDhhZGFhODU2LTIzOWItNDM1Zi05MWM5LWJhMzA2ZTFkNTg2NBgAIAAoADDevIqRjjI46Kz/sakxQOis/7GpMUocb2xVd1pRRVgyUUloTFV1K2ZBdFE3SmVjMnZrPVoeIhx3QXNxbWpmdHphYUNBMVhoN2g2YlRvY2JLZ009ZQsMdG7CPgJgBRKsAQgfEqcBChxNcFBMVmhrRzNIbllOamlaeXRDUTQ3S1Q1YjQ9EiQ1ZTc3YmVhNS0zZWMxLTQ1ZmUtODA3Mi1kMzA0NGRhNzMzMTYYACAAKAAwsq6g/LAuONDvoO/zL0DQ76Dv8y9KHFYzNWhoRTBZV0NtZEphQ0twaWNyU2toYVlIMD1aHiIccXpYSXA5TEcrWS9xMFlqbGo1bE1XQ1hjR3Q0PWUAAAAAwj4CYAASjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkZjRiMjVjNTUtYTEyZS01YjY0LThhYTAtMmZjM2MxNWM0MTczGAAgACgAMLbdkfywLjjp7KDv8y9A6eyg7/MvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEqwBCBkSpwEKHHZKdEtBQ2tsUk5FTkYwYmlZQ3RQNzZ6dHY1VT0SJDA3ZGQ1NWVhLTU3MDAtNDNkYS1iOGMyLTI2N2YzODQwZGI5MhgAIAAoADD414qRjjI4tIHl16oxQLSB5deqMUocWnp6Q0Y2MzA1VkdPblJMY2VGb0RiWm5YWk9VPVoeIhxMcEo3QU9DNWt3UlJockZtZFlDbXZOcEZJaUk9Za3T4yHCPgJgBRKtAQgLEqgBChxnYUF5bUtaaXlmczBhRWt0QzZCazZ4WXc4SHM9EiQwYTI5ZGI0MC1hYmExLTRhMDEtOGE3NS1iOWNlMDg0ZTFkNTcYACAAKAAwprKg/LAuOInyoO/zL0CJ8qDv8y9KHDBpQktkQ0JLM2R0UUtVWXFXUlhZSk5GOVd3MD1aHyId/S9zd0NVK1p6Ump2RFozcHZ1UlhzR085dWFYMD1lT5+32MI+AmAFEq0BCBQSqAEKHEZVM3g3YnlRNG5EOUVSQ3Z3alFPMzl4c0Yxbz0SJGRhMzc3ZjdiLWMwNWQtNDVlZi1iYjBhLWQ0MGFkYTIyZTNmMRgAIAAoADDOqqD8sC44ku+g7/MvQJLvoO/zL0ocOVFTSXlYZExSYTlIcngzQUYzK245QU9EL2hRPVofIh39UC9qSy9EM2RORDF0MFhobUtNMDlaN1lOSHo0PWWSAx7ewj4CYAUSrQEIExKoAQocRi9xaElZdVRXVUQxcnN0SzZBdi9OK1ExeEdjPRIkZWVkYjE4MDUtNjk2ZC00YjQwLWI5ZjItMGQ5YjczZTRhODNkGAAgACgAMLWsoPywLjih76Dv8y9Aoe+g7/MvShxHdHFvUk1jcGVIMWJ0TkpYZmdpa2cwdTNWelE9Wh8iHfpxNFVINWI0VEw2d2UrZjBCUHp0YnAra3NLNzg9ZZIDHt7CPgJgBRKtAQghEqgBChxvdGMrYU9tSXptdXhOK1RTUUdvWFAvbFErSms9EiRlNzc4YTczMS1jMTlhLTQ2OTctOGQ2ZS0yNmFjNWM1MmZmMWQYACAAKAAwmbCg/LAuOJvxoO/zL0Cb8aDv8y9KHG5HUXFFMEJOeHdlTEVHSkVwa3VadTdjMmp1MD1aHyIdvFNLMFRkTlBTcXptSmpwSzBVVHZHQUMwWHdqYz1lMU1YpcI+AmAFEq0BCBISqAEKHHlVdXhZZENjQ21QQ09hUzlyc3hsV0l3MEpnVT0SJDcxNjFkZDM0LTM0OGYtNDQ3ZC04OWFjLWE5NmJkYmVkNTVlZhgAIAAoADDMqqD8sC444+6g7/MvQOPuoO/zL0ocSkpmY0J6aGNrSnhpNjRLV2tHeHp4c0FKckVNPVofIh31dldKQ3B0bnhEOGxuVjU1TVBiMnhMRkIrU1NnPWWSAx7ewj4CYAUSrAEIGBKnAQocTmZUZEs0dEhwNWsycG54cTlhWUJQLy9HbGdBPRIkNmM5NzMxNmYtNWU5Yy00OTBkLWE1MjgtOTYzNTE5NDllMTljGAAgACgAMOajipGOMji78aDv8y9Au/Gg7/MvShxsY1A3aExENkhON0NDUGtBMWRhY0daQ3dQRjQ9Wh4iHFFCZUpwWURNdmxrMit2TXhiak8rS3N0eTN1cz1lAAAAAMI+AmAAEq0BCBASqAEKHFgxTGtSVmUxakRBanE4cHF0MTZGWVE1VGVScz0SJDNhYWY0ODhjLTlmYzctNDBhNy1iMTA5LWVjNWFiYTM5MDE2ZRgAIAAoADDUqKD8sC44pe6g7/MvQKXuoO/zL0ocWmJvNi9IbTJoMmVyaU9FNW5sRnV2NW8ybWgwPVofIh3WZlE5NEw3RHdMVStxUXVWVndtTFE1aFQ4VE4wPWWSAx7ewj4CYAUSrQEIDxKoAQocczE0djN5M3Axd3RVKzZkc1BnN1VRUngveVk0PRIkZjUzMWRhZWUtZDZiYy00ZjU1LWIxMmQtOTIyZGMzNjE5ZjA4GAAgACgAMNOooPywLjiV7qDv8y9Ale6g7/MvShx5RTBmSlNNQUZRaFlEUldUNXJYNXBPTmVmeDg9Wh8iHa1CaTRPWWxHQVBSb0grK0g3NE5DY2dOZnY1eFE9ZZIDHt7CPgJgBRKuAQgXEqkBChx4UTVab1F5N2FsNEJpeEQzRCsyRGFYRkZZb2c9EiQ0YTI5MDBmZC00ODgwLTQ3NGQtOWUzYS1lNWI5MjM1NTAxYTIYACAAKAAwnbSg/LAuOKjyoO/zL0Co8qDv8y9KHC9nSGZKOW9vK3RxWnZMRTFFaTIrV0xCaDNRUT1aICIe/7dMVmVHT1orSkdiVnI1T3hmLzFkYjNwdjFkdk09ZemNtKbCPgJgBRKsAQgOEqcBChxSYm9nMDZXcTVBU2VOb0tJVGVKK0FvV0RXOHM9EiQyY2Q5ZGIwOC0yMWNmLTQ2ODgtYmIxMS1mNDlhMTc5NDQ2ODEYACAAKAAw0qig/LAuOIXuoO/zL0CF7qDv8y9KHG1JUnMrQ3NYVWNXOVUrMmFMVld3QWhWWXJZUT1aHiIcWkc0OVFzSmdscWdGUzREYUhPUnpWTkVQMytJPWWSAx7ewj4CYAUSrQEIFhKoAQocd0NQUkNoMW5aUm5TWkgraSsxVTVQUzdDTlFnPRIkY2YzYWI4YjMtOTM2Yi00YTdhLThhMWQtZDhkMDJkMGUxNDA1GAAgACgAMMuqoPywLjjT7qDv8y9A0+6g7/MvShxBeVR6QlRHVzZoaVk5cnJtOXhSS3pZTlFLSTg9Wh8iHf9vcVZIdkNFUSs4Y3QrVEIzc09RVUNJcGQyU0k9ZQAAAADCPgJgBRKsAQgHEqcBChxOdm9IUThJUUFzRWJhd0RVaUdVT2FsUzBKTGM9EiRhOThiNmFmOC0yYjM1LTQ2ZjQtOTllZS0zNzI0OTA2YmYwNmUYACAAKAAwuayg/LAuOLHvoO/zL0Cx76Dv8y9KHGx4UjZoTHBqRXpib2l5a3FKL0pMZm56SlpOWT1aHiIcTFV6R2p0UFZJcDBkWDFzRnZ0VzFKRVMvVWF3PWUAAAAAwj4CYAUSrQEIDBKoAQocRk1nK0tuT0s5LzkxRGZpQXZ6NG5zQ1IvMUhFPRIkY2MyYWExYTctMThhZS00ODBhLTlhOTgtMzM2ZWIyMjcwYjA0GAAgACgAMPiE14qLMTjH7aDv8y9Ax+2g7/MvShwvNVZqUTF6S3dZMzRYOFk0aDdyVGpBWHVGa2c9Wh8iHShqemRmMXFuczNLMnFsM3RiUEIvOTRKL0FHMDA9ZQAAAADCPgJgABKtAQgbEqgBChxUcndDMHRrYm5xL2NMSkxkOEg3cjVMemtvWm89EiQ2Nzk0YTljNi1iMjM5LTQ0OTYtYTE5OC1jOTJkNGY0OTBhNTMYACAAKAAw4Lrv+okyOOnN1YqLMUDpzdWKizFKHEJNZFVGcStWY0tkVEFjWW00cDNZNE1xWk4vYz1aHyIdvGcvV3hBbFVIMVo5dnYyWm11RU9qMDJjRmRtOD1l55kTdMI+AmAFEq0BCBUSqAEKHFhnaUM3MXZmQUdZZzczWHF0dEdKZ0RzYncwOD0SJDUwYWVhZjc5LTk4ZWEtNGQzYi1hMjUxLTY0MjUyNjQyYzFkZBgAIAAoADDKqqD8sC44xO6g7/MvQMTuoO/zL0ocSGpyRThNZDlyUWFhQkw5MUZoRDdmRy9SeWQwPVofIh3+NXlrNlhQejFraTF4c2J1NWNHMnQ3YkQ3N0hFPWUAAAAAwj4CYAUSrAEIDRKnAQocdUdpQlU2L0d3UFVsQmIrSS8vQjlRT1pudG1BPRIkYmQ3M2U3M2QtZDI2Zi00OTM3LTlhNDYtZDNlOWRhMjk4NGZhGAAgACgAMNGooPywLjj27aDv8y9A9u2g7/MvShxpVFFBR29RQTBkaGhQK1V6VC9SL2paSmRPWjA9Wh4iHE1xU29NektiSjZqd2hwdGovMm83bnNtSko4RT1lkgMe3sI+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGI3YjZmNWNjLWM0OGUtNTEzOC1hMzQ5LTViZDI3YTg3YmM4ZhgAIAAoADC73ZH8sC44t+2g7/MvQLftoO/zL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKtAQgREqgBChx6Z00xYi9jcktuaEg2V3ZzRFRWbHZxcjZ0Wnc9EiQxNTBhZjdkNy0yMDIzLTRiYjctYmM2OC1mYjA4MWU2OThiYzYYACAAKAAwzaqg/LAuOILvoO/zL0CC76Dv8y9KHGEzdGx4NEZ6SHBjcHVoS0lwNk5EVkRoS2Nqaz1aHyId621OQ2wrZ0hPaldDQXB4emxlZGtBdFBDNzNmMD1lkgMe3sI+AmAFEqwBCAoSpwEKHGx3ZlN6M1AycnFqTkdNZ1ZaWVVDcjZkOS9Fbz0SJGJiMDcwNzNkLTUxNTMtNDNlZS1iOGY3LWQ4MWQ3YzExNjJkYRgAIAAoADCksqD8sC44+fGg7/MvQPnxoO/zL0ocRHlveWlRZ2FmRk0weVdmZ1VjM0lFYTNCalBzPVoeIhxyZ1FXRWtUZHNJanFXRDAwaXNmcG1LSk56MGc9ZXsaGPHCPgJgBRKtAQgJEqgBChxaNUFtZjdDN1pSS2ljM050UWhwVWZlYjVmWlU9EiQyMjllZGVjOC05ZGJiLTRjNDgtOTg4Zi01YWI2NGU3NzliZGEYACAAKAAwo7Kg/LAuOOrxoO/zL0Dq8aDv8y9KHDFTeW1IMTM0S255Y3Y1Z3h0SS9wUkFYK2ZQZz1aHyId9WNHeGxyYUd1NTRpbWpxdERKcGszZ1docnJaUT1lAAAAAMI+AmAAEqwBCAgSpwEKHEhaVmFTaFZkM3ZEOU5iMUhNQ2JtdUlITkd3UT0SJGMwZjEyM2E0LWQ2M2EtNDIxNi1iZjMyLTM2NThkNzE3ZTNiYhgAIAAoADCbsKD8sC44q/Gg7/MvQKvxoO/zL0occjdYQnJqdjluenlyVVFuTUdPa1dRNDA2c2VzPVoeIhxZWWhxc0pjVEFqTEhVV3FEbUhqQTlEb1NFMFk9ZQAAAADCPgJgBRKtAQgGEqgBChxDYUtROFNLOFZBYVFuLzVyTmtwV0VzSGhzc289EiRkNzgxNTExYi0xODJmLTRmOTQtYmMzNC1hMTZiODA0YjViODkYACAAKAAw+tCK/bAuOKL0oO/zL0Ci9KDv8y9KHFN0dzVPM2NxRzgrTlArejIxWElPTzJRTTAyST1aHyId71dOMGNkeHgrZTg1QzFDdW1sTmlUaUV4RnovYz1lAAAAAMI+AmAAEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGMzMGYwYjlkLWJlMTgtNWFlZS1hODVlLTI0MTg0NzNlZGRmNhgAIAAoADC33ZH8sC44+eyg7/MvQPnsoO/zL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}
